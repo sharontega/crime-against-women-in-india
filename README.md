@@ -1,6 +1,1 @@
-The project is about crime against women in india from 2001 to 2007
-
-
-The dataset was gotten from kaggle.
-
-The data was cleaned on mysql workbench and questions was answered using the same tool
+The project focuses on the examination of crimes against women in India spanning the years 2001 to 2007. The dataset was sourced from Kaggle, and the data cleaning and analysis processes were carried out using MySQL Workbench. Questions related to the dataset were also addressed using the same tool for analysis.
